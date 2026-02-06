@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 7
+limit_days = 12
 cache_url = "https://TMNWS.github.io/SYY/cache.json"
 
 [[sources]]
@@ -11,11 +11,6 @@ title = "Computation and Language"
 limit = 150
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
-
-[[sources]]
-limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
 
 [[sources]]
 limit = 150
