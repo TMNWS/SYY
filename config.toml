@@ -1,5 +1,5 @@
 site_title = "MyArxiv"
-limit_days = 12
+limit_days = 7
 cache_url = "https://TMNWS.github.io/SYY/cache.json"
 
 [[sources]]
